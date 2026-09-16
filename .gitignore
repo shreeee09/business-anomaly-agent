@@ -1,0 +1,10 @@
+Credencial101.env
+__pycache__/
+*.log
+reports.xlsx
+alert_history.csv
+.DS_Store
+.ipynb_checkpoints/
+.virtual_documents/
+anaconda_projects/
+*.save
