@@ -124,3 +124,4 @@ business-anomaly-agent/
 ├── agent_error.log
 │
 └── Credencial101.env
+Git and GitHub practice started.
